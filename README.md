@@ -1,2 +1,1 @@
-# CUPCAKE_1
-Projeto Acadêmico: Loja de Cupcakes e Sistema de Atendimento/Compras - Concluímos com sucesso nosso projeto da faculdade, focado em uma loja de cupcakes e seu sistema de atendimento/compras. Desenvolvemos histórias de usuários e coletamos feedbacks para aprimorar o projeto, enriquecendo nossa compreensão de agilidade e gestão de projetos.
+#video apresentação: https://drive.google.com/file/d/1WHKKxnJV2JXsGj--QT_wRCmRl_7iTRN9/view?usp=sharing
